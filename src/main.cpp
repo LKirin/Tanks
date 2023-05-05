@@ -17,7 +17,7 @@ int main() {
     double radius = 40;
     double ballSpeed = 5;
     std::string text = "";
-    SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
+    SetTargetFPS(120);               // Set our game to run at 60 frames-per-second
     //---------------------------------------------------------------------------------------
 
     bool isBallDirectionRight = true;
