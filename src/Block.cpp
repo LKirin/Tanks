@@ -4,6 +4,3 @@
 
 #include "Block.h"
 
-void Block::Drawing() {
-
-}
