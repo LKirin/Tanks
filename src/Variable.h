@@ -1,0 +1,8 @@
+//
+// Created by vorontcovka on 12.05.2023.
+//
+
+#ifndef RAYLIBTEMPLATE_VARIABLE_H
+#define RAYLIBTEMPLATE_VARIABLE_H
+
+#endif //RAYLIBTEMPLATE_VARIABLE_H
