@@ -1,5 +1,5 @@
-#include <string>
-
+#include "Func.cpp"
+#include "Block.h"
 #include <raylib.h>
 #define RAYGUI_IMPLEMENTATION
 #include "extras/raygui.h"
@@ -9,9 +9,8 @@ int main() {
     // Initialization
     //--------------------------------------------------------------------------------------
 
-
+    vector<vector<Block>> blocks;
     InitWindow(screenWidth, screenHeight, "raylib [core] example");
-
     SetTargetFPS(FPS);               // Set our game to run at 60 frames-per-second
     //---------------------------------------------------------------------------------------
 
@@ -25,6 +24,7 @@ int main() {
         //----------------------------------------------------------------------------------
         BeginDrawing();
         ClearBackground(RAYWHITE);
+        drawAllBlocks(blocks);
         EndDrawing();
         //----------------------------------------------------------------------------------
     }

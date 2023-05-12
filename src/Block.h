@@ -8,9 +8,6 @@
 #include <raylib.h>
 class Block {
 public:
-    float height = 16;
-    float width = 9;
-    bool isDrawing = false;
     Texture2D view;
 };
 
