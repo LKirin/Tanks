@@ -1,15 +1,16 @@
-#include "Func.cpp"
+#include "Func.h"
 #include "Block.h"
 #include <raylib.h>
 #define RAYGUI_IMPLEMENTATION
 #include "extras/raygui.h"
 #include "Variable.h"
-
+using namespace std;
 int main() {
     // Initialization
     //--------------------------------------------------------------------------------------
 
     vector<vector<Block>> blocks;
+    filling_blocks(blocks);
     InitWindow(screenWidth, screenHeight, "raylib [core] example");
     SetTargetFPS(FPS);               // Set our game to run at 60 frames-per-second
     //---------------------------------------------------------------------------------------
@@ -19,7 +20,6 @@ int main() {
     {
         // Update
         //----------------------------------------------------------------------------------
-
         // Draw
         //----------------------------------------------------------------------------------
         BeginDrawing();
