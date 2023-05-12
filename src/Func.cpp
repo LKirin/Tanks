@@ -1,20 +1,25 @@
 #include "Func.h"
-void drawAllBlocks(vector<vector<Block>> blocks){
-    for (int i = 0; i < layer_blocks ; ++i) {
-        for (int j = 0; j < column_blocks; ++j) {
-            if(i < layer_blocks - 1) blocks[i][j].view = ground;
-            else blocks[i][j].view = grass;
-            DrawTextureV(blocks[i][j].view, {j * BLOCK_WIDTH, i * BLOCK_HEIGHT}, WHITE);
-        }
-    }
+
+void fillingBlocks(vector<vector<Block>>& blocks, Block block_pattern){
+	for (int i = 0; i < BLOCK_LAYER_IN_HEIGHT; i++)
+	{
+		vector<Block> vec_blocks(BLOCK_LAYER_IN_WIDTH);
+		for (int j = 0; j < BLOCK_LAYER_IN_WIDTH; j++)
+		{
+			blocks[i][j].position.x = j * BLOCK_WIDTH;
+			blocks[i][j].position.y = i * BLOCK_HEIGHT;
+		}
+		blocks.push_back(vec_blocks);
+	}
+    
+    
 }
-void filling_blocks(vector<vector<Block>>& blocks){
-    Block block = {ground};
-    vector<Block> a;
-    for (int i = 0; i < column_blocks; ++i) {
-        a.push_back(block);
-    }
-    for (int i = 0; i < layer_blocks; ++i) {
-        blocks.push_back(a);
-    }
+void drawAllblocks(vector<vector<Block>>& blocks) {
+	for (int i = 0; i < blocks.size(); i++)
+	{
+		for (int j = 0; j < BLOCK_LAYER_IN_WIDTH; j++) {
+			
+			blocks[i][j].draw();
+		}
+	}
 }

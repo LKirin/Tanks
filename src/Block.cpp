@@ -4,3 +4,9 @@
 
 #include "Block.h"
 
+void Block::draw()
+{
+	DrawRectangle(position.x, position.y, BLOCK_WIDTH, BLOCK_HEIGHT, color);
+
+
+}
