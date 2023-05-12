@@ -7,4 +7,6 @@
 const int screenWidth = GetScreenWidth();
 const int screenHeight = GetScreenHeight();
 const int FPS = 60;
+Texture2D  grass;
+Texture2D  ground;
 #endif //RAYLIBTEMPLATE_VARIABLE_H
