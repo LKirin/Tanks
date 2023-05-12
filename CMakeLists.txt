@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 file(GLOB SOURCES src/*.cpp)
 
-add_executable(RayLibTemplate ${SOURCES})
+add_executable(RayLibTemplate ${SOURCES} src/Block.cpp src/Block.h src/Func.cpp src/Variable.h)
 # Setting parameters for raylib
 set(BUILD_EXAMPLES OFF CACHE BOOL "" FORCE) # don't build the supplied examples
 set(BUILD_GAMES    OFF CACHE BOOL "" FORCE) # or games
