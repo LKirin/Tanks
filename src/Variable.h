@@ -4,5 +4,7 @@
 
 #ifndef RAYLIBTEMPLATE_VARIABLE_H
 #define RAYLIBTEMPLATE_VARIABLE_H
-
+const int screenWidth = GetScreenWidth();
+const int screenHeight = GetScreenHeight();
+const int FPS = 60;
 #endif //RAYLIBTEMPLATE_VARIABLE_H
