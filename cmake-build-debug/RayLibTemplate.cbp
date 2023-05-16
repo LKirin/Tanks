@@ -436,6 +436,9 @@
 		<Unit filename="C:/Users/podlesnyims/source/repos/Tanks/src/Func.h">
 			<Option target="RayLibTemplate"/>
 		</Unit>
+		<Unit filename="C:/Users/podlesnyims/source/repos/Tanks/src/Tank.cpp">
+			<Option target="RayLibTemplate"/>
+		</Unit>
 		<Unit filename="C:/Users/podlesnyims/source/repos/Tanks/src/Tank.h">
 			<Option target="RayLibTemplate"/>
 		</Unit>

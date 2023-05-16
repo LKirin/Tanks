@@ -291,6 +291,30 @@ src/Func.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Func.cpp.s
 .PHONY : src/Func.cpp.s
 
+src/Tank.obj: src/Tank.cpp.obj
+.PHONY : src/Tank.obj
+
+# target to build an object file
+src/Tank.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj
+.PHONY : src/Tank.cpp.obj
+
+src/Tank.i: src/Tank.cpp.i
+.PHONY : src/Tank.i
+
+# target to preprocess a source file
+src/Tank.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.i
+.PHONY : src/Tank.cpp.i
+
+src/Tank.s: src/Tank.cpp.s
+.PHONY : src/Tank.s
+
+# target to generate assembly for a file
+src/Tank.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.s
+.PHONY : src/Tank.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -341,6 +365,9 @@ help:
 	@echo ... src/Func.obj
 	@echo ... src/Func.i
 	@echo ... src/Func.s
+	@echo ... src/Tank.obj
+	@echo ... src/Tank.i
+	@echo ... src/Tank.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

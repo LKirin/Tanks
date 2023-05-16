@@ -3,11 +3,13 @@
 #include <raylib.h>
 #include "Ammos.h"
 #include <vector>
+#include "Variable.h"
 struct Tank {
     Texture2D texture;
     Vector2 position;
     int gasoline;
     std::vector<Ammo> armemnt;
+    void draw();
 };
 #endif //RAYLIBTEMPLATE_TANK_H
 

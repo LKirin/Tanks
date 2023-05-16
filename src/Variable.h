@@ -10,6 +10,6 @@ const float BLOCK_WIDTH = 32;
 const int FPS = 60;
 const int screenWidth = 1920;
 const int screenHeight = 1080;
-const int TANK_WIDTH = 50;
-const int TANK_HEIGHT = 35;
+const int TANK_WIDTH = 190;
+const int TANK_HEIGHT = 190;
 #endif //RAYLIBTEMPLATE_VARIABLE_H

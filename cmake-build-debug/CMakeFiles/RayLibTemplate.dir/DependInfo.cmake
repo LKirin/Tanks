@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/podlesnyims/source/repos/Tanks/src/Ammos.cpp" "CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj.d"
   "C:/Users/podlesnyims/source/repos/Tanks/src/Block.cpp" "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj.d"
   "C:/Users/podlesnyims/source/repos/Tanks/src/Func.cpp" "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj.d"
+  "C:/Users/podlesnyims/source/repos/Tanks/src/Tank.cpp" "CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj.d"
   "C:/Users/podlesnyims/source/repos/Tanks/src/main.cpp" "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj.d"
   )
 
