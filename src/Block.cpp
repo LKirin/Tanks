@@ -1,6 +1,6 @@
 #include "Block.h"
 
-void Block::draw(Texture2D ground)
+void Block::draw()
 {
     DrawTexturePro(texture, {0, 0, (float)(texture.width), (float)texture.height},
                    {position.x, position.y, BLOCK_WIDTH, BLOCK_HEIGHT}, {0, 0}, 0, WHITE);

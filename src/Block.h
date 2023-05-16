@@ -12,7 +12,7 @@ public:
     Vector2 position = {0, 0};
     Color color = WHITE;
     bool isDrawing = true;
-    void draw(Texture2D ground);
+    void draw();
 };
 
 

@@ -22,10 +22,10 @@ void fillingBlocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_HEIGHT, int
 }
 
 
-void drawAllblocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_WIDTH, Texture2D ground) {
+void drawAllblocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_WIDTH) {
     for (int i = 0; i < blocks.size(); i++) {
         for (int j = 0; j < BLOCK_LAYER_IN_WIDTH; j++) {
-            blocks[i][j].draw(ground);
+            blocks[i][j].draw();
         }
     }
 }
