@@ -1,12 +1,8 @@
-//
-// Created by vorontcovka on 12.05.2023.
-//
-
 #include "Block.h"
 
-void Block::draw()
+void Block::draw(Texture2D ground)
 {
-	DrawRectangle(position.x, position.y, BLOCK_WIDTH, BLOCK_HEIGHT, color);
-
-
+    DrawTexturePro(texture, {0, 0, (float)(texture.width), (float)texture.height},
+                   {position.x, position.y, BLOCK_WIDTH, BLOCK_HEIGHT}, {0, 0}, 0, WHITE);
+    //DrawTextureV(ground, {500, 400}, WHITE);
 }

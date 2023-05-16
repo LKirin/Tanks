@@ -9,6 +9,6 @@
 #include "Variable.h"
 #include <vector>
 using namespace std;
-void fillingBlocks(vector<vector<Block>>& blocks, Block block_pattern);
-void drawAllblocks(vector<vector<Block>>& blocks);
+void fillingBlocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_HEIGHT, int BLOCK_LAYER_IN_WIDTH, Texture2D grass, Texture2D ground);
+void drawAllblocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_WIDTH, Texture2D ground);
 #endif //RAYLIBTEMPLATE_FUNC_H

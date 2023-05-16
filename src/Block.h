@@ -10,9 +10,9 @@ class Block {
 public:
     Texture2D texture;
     Vector2 position = {0, 0};
-    Color color = BLACK;
+    Color color = WHITE;
     bool isDrawing = true;
-    void draw();
+    void draw(Texture2D ground);
 };
 
 

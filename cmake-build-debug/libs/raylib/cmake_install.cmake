@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/efarinov/Documents/RayLibTemplate/RayLibTemplate/libs/raylib-4.1
+# Install script for directory: C:/Users/vorontcovka/Tanks/libs/raylib-4.1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/mingw32/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/efarinov/Documents/RayLibTemplate/RayLibTemplate/cmake-build-debug/libs/raylib/raylib/cmake_install.cmake")
+  include("C:/Users/vorontcovka/Tanks/cmake-build-debug/libs/raylib/raylib/cmake_install.cmake")
 
 endif()
 

@@ -1,5 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj"
+  "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj.d"
+  "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj"
+  "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj.d"
   "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"
+  "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj.d"
   "RayLibTemplate.exe"
   "RayLibTemplate.exe.manifest"
   "RayLibTemplate.pdb"
