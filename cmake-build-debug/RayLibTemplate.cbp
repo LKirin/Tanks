@@ -418,6 +418,12 @@
 		<Unit filename="C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/utils.h">
 			<Option target="raylib"/>
 		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Ammos.cpp">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Ammos.h">
+			<Option target="RayLibTemplate"/>
+		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Block.cpp">
 			<Option target="RayLibTemplate"/>
 		</Unit>
@@ -428,6 +434,9 @@
 			<Option target="RayLibTemplate"/>
 		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Func.h">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Tank.h">
 			<Option target="RayLibTemplate"/>
 		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Variable.h">

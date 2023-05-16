@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj"
+  "CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj.d"
   "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj"
   "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj.d"
   "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj"

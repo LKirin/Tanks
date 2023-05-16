@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/vorontcovka/Tanks/src/Ammos.cpp" "CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/Block.cpp" "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/Func.cpp" "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/main.cpp" "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj.d"
