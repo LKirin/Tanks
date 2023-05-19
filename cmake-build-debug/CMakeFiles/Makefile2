@@ -141,8 +141,8 @@ libs/raylib/raylib/external/glfw/src/clean: libs/raylib/raylib/external/glfw/src
 # Target rules for target CMakeFiles/RayLibTemplate.dir
 
 # All Build rule for target.
-CMakeFiles/RayLibTemplate.dir/all: libs/raylib/raylib/CMakeFiles/raylib.dir/all
 CMakeFiles/RayLibTemplate.dir/all: libs/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/all
+CMakeFiles/RayLibTemplate.dir/all: libs/raylib/raylib/CMakeFiles/raylib.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target RayLibTemplate"

@@ -106,11 +106,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "raylib::@c433a9b36bd4eeacb31c"
+			"id" : "glfw::@748cfb7de3ab8e0bc04d"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@748cfb7de3ab8e0bc04d"
+			"id" : "raylib::@c433a9b36bd4eeacb31c"
 		}
 	],
 	"id" : "RayLibTemplate::@6890427a1f51a3e7e1df",
@@ -195,12 +195,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Ammos.cpp",
+			"path" : "src/Ammo.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "src/Ammos.h",
+			"path" : "src/Ammo.h",
 			"sourceGroupIndex" : 1
 		},
 		{

@@ -418,10 +418,10 @@
 		<Unit filename="C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/utils.h">
 			<Option target="raylib"/>
 		</Unit>
-		<Unit filename="C:/Users/vorontcovka/Tanks/src/Ammos.cpp">
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Ammo.cpp">
 			<Option target="RayLibTemplate"/>
 		</Unit>
-		<Unit filename="C:/Users/vorontcovka/Tanks/src/Ammos.h">
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Ammo.h">
 			<Option target="RayLibTemplate"/>
 		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Block.cpp">

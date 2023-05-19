@@ -17,6 +17,12 @@ int main() {
     int BLOCK_LAYER_IN_HEIGHT = screenHeight / 2 / BLOCK_HEIGHT;
     int BLOCK_LAYER_IN_WIDTH = screenWidth/ BLOCK_WIDTH;
     vector<vector<Block>> blocks;
+
+    Ammo ammo;
+    ammo.position = {100, 100};
+    ammo.texture = ground;
+    ammo.rotation = 30.f;
+
     Tank tank;
     tank.texture = tex_tank;
     tank.position = {50, screenHeight / 2 - TANK_HEIGHT + 20};
@@ -27,7 +33,7 @@ int main() {
         BeginDrawing();
         ClearBackground(SKYBLUE);
         drawAllblocks(blocks, BLOCK_LAYER_IN_WIDTH);
-
+        ammo.draw();
         tank.mention();
         tank.draw();
         tank.quantity_fuel();

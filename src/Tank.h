@@ -1,7 +1,7 @@
 #ifndef RAYLIBTEMPLATE_TANK_H
 #define RAYLIBTEMPLATE_TANK_H
 #include <raylib.h>
-#include "Ammos.h"
+#include "Ammo.h"
 #include <vector>
 #include "Variable.h"
 struct Tank {

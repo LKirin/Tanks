@@ -219,29 +219,29 @@ glfw/fast:
 	$(MAKE) $(MAKESILENT) -f libs\raylib\raylib\external\glfw\src\CMakeFiles\glfw.dir\build.make libs/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/build
 .PHONY : glfw/fast
 
-src/Ammos.obj: src/Ammos.cpp.obj
-.PHONY : src/Ammos.obj
+src/Ammo.obj: src/Ammo.cpp.obj
+.PHONY : src/Ammo.obj
 
 # target to build an object file
-src/Ammos.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj
-.PHONY : src/Ammos.cpp.obj
+src/Ammo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.obj
+.PHONY : src/Ammo.cpp.obj
 
-src/Ammos.i: src/Ammos.cpp.i
-.PHONY : src/Ammos.i
+src/Ammo.i: src/Ammo.cpp.i
+.PHONY : src/Ammo.i
 
 # target to preprocess a source file
-src/Ammos.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.i
-.PHONY : src/Ammos.cpp.i
+src/Ammo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.i
+.PHONY : src/Ammo.cpp.i
 
-src/Ammos.s: src/Ammos.cpp.s
-.PHONY : src/Ammos.s
+src/Ammo.s: src/Ammo.cpp.s
+.PHONY : src/Ammo.s
 
 # target to generate assembly for a file
-src/Ammos.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.s
-.PHONY : src/Ammos.cpp.s
+src/Ammo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.s
+.PHONY : src/Ammo.cpp.s
 
 src/Block.obj: src/Block.cpp.obj
 .PHONY : src/Block.obj
@@ -356,9 +356,9 @@ help:
 	@echo ... RayLibTemplate
 	@echo ... glfw
 	@echo ... raylib
-	@echo ... src/Ammos.obj
-	@echo ... src/Ammos.i
-	@echo ... src/Ammos.s
+	@echo ... src/Ammo.obj
+	@echo ... src/Ammo.i
+	@echo ... src/Ammo.s
 	@echo ... src/Block.obj
 	@echo ... src/Block.i
 	@echo ... src/Block.s

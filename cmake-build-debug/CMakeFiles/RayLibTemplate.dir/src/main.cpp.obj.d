@@ -168,4 +168,4 @@ CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_laguerre.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/riemann_zeta.tcc \
  C:\Users\vorontcovka\Tanks\src\Tank.h \
- C:\Users\vorontcovka\Tanks\src\Ammos.h
+ C:\Users\vorontcovka\Tanks\src\Ammo.h
