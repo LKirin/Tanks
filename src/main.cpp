@@ -9,18 +9,19 @@
 using namespace std;
 int main() {
 
-
     InitWindow(screenWidth, screenHeight, "raylib [core] example");
-    Texture2D tex_tank = LoadTexture("player 2.png");
+    Texture2D tex_tank = LoadTexture("TankGray.png");
     Texture2D grass = LoadTexture("grass.png");
     Texture2D ground = LoadTexture("ground.png");
+    Texture2D tex_ammo = LoadTexture("ammo.png");
+
     int BLOCK_LAYER_IN_HEIGHT = screenHeight / 2 / BLOCK_HEIGHT;
     int BLOCK_LAYER_IN_WIDTH = screenWidth/ BLOCK_WIDTH;
     vector<vector<Block>> blocks;
 
     Ammo ammo;
-    ammo.position = {100, 100};
-    ammo.texture = ground;
+    ammo.position = {540, 560};
+    ammo.texture = tex_ammo;
     ammo.rotation = 30.f;
 
     Tank tank;
@@ -32,8 +33,10 @@ int main() {
     {
         BeginDrawing();
         ClearBackground(SKYBLUE);
-        drawAllblocks(blocks, BLOCK_LAYER_IN_WIDTH);
         ammo.draw();
+        drawAllblocks(blocks, BLOCK_LAYER_IN_WIDTH);
+        ammo.crash(blocks);
+
         tank.mention();
         tank.draw();
         tank.quantity_fuel();
