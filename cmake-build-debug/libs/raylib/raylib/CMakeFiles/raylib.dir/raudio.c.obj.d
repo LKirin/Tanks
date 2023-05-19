@@ -1,6 +1,6 @@
 libs/raylib/raylib/CMakeFiles/raylib.dir/raudio.c.obj: \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\raudio.c \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\raylib.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\raudio.c \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -10,8 +10,8 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/raudio.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdbool.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\config.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\utils.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\config.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\utils.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/windows.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sdkddkver.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/excpt.h \
@@ -247,7 +247,7 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/raudio.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/imm.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/mmreg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/pshpack1.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/miniaudio.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/miniaudio.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/assert.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
@@ -262,10 +262,10 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/raudio.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sys/stat.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/io.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/stb_vorbis.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/jar_xm.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/stb_vorbis.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/jar_xm.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/jar_mod.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/dr_wav.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/dr_mp3.h
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/jar_mod.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/dr_wav.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/dr_mp3.h

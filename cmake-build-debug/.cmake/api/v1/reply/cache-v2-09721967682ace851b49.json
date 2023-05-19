@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug"
+			"value" : "c:/Users/vorontcovka/Tanks/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -767,7 +767,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks"
+			"value" : "C:/Users/vorontcovka/Tanks"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1819,7 +1819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug/libs/raylib/raylib/external/glfw"
+			"value" : "C:/Users/vorontcovka/Tanks/cmake-build-debug/libs/raylib/raylib/external/glfw"
 		},
 		{
 			"name" : "GLFW_BUILD_DOCS",
@@ -1891,7 +1891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/external/glfw"
+			"value" : "C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/external/glfw"
 		},
 		{
 			"name" : "GLFW_USE_HYBRID_HPG",
@@ -2039,7 +2039,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug"
+			"value" : "C:/Users/vorontcovka/Tanks/cmake-build-debug"
 		},
 		{
 			"name" : "RayLibTemplate_IS_TOP_LEVEL",
@@ -2063,7 +2063,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks"
+			"value" : "C:/Users/vorontcovka/Tanks"
 		},
 		{
 			"name" : "USE_EXTERNAL_GLFW",
@@ -2127,7 +2127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug/libs/raylib/raylib"
+			"value" : "C:/Users/vorontcovka/Tanks/cmake-build-debug/libs/raylib/raylib"
 		},
 		{
 			"name" : "raylib_IS_TOP_LEVEL",
@@ -2163,7 +2163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src"
+			"value" : "C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src"
 		}
 	],
 	"kind" : "cache",

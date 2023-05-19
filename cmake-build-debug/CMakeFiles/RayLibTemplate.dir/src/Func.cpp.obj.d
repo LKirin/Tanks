@@ -1,5 +1,5 @@
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj: \
- C:\Users\podlesnyims\source\repos\Tanks\src\Func.cpp \
+ C:\Users\vorontcovka\Tanks\src\Func.cpp \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -135,10 +135,10 @@ CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
- C:\Users\podlesnyims\source\repos\Tanks\src\Func.h \
- C:\Users\podlesnyims\source\repos\Tanks\src\Block.h \
- C:\Users\podlesnyims\source\repos\Tanks\src\Variable.h \
- C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/raylib.h \
+ C:\Users\vorontcovka\Tanks\src\Func.h \
+ C:\Users\vorontcovka\Tanks\src\Block.h \
+ C:\Users\vorontcovka\Tanks\src\Variable.h \
+ C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \

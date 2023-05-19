@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\podlesnyims\source\repos\Tanks
+CMAKE_SOURCE_DIR = C:\Users\vorontcovka\Tanks
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\vorontcovka\Tanks\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/RayLibTemplate.dir/depend.make
@@ -72,76 +72,76 @@ CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj: CMakeFiles/RayLibTemplate.dir/f
 CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj: ../src/Ammos.cpp
 CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj: CMakeFiles/RayLibTemplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.obj -c C:\Users\podlesnyims\source\repos\Tanks\src\Ammos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.obj -c C:\Users\vorontcovka\Tanks\src\Ammos.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\podlesnyims\source\repos\Tanks\src\Ammos.cpp > CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\vorontcovka\Tanks\src\Ammos.cpp > CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.i
 
 CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayLibTemplate.dir/src/Ammos.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\podlesnyims\source\repos\Tanks\src\Ammos.cpp -o CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\vorontcovka\Tanks\src\Ammos.cpp -o CMakeFiles\RayLibTemplate.dir\src\Ammos.cpp.s
 
 CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj: ../src/Block.cpp
 CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj: CMakeFiles/RayLibTemplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Block.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Block.cpp.obj -c C:\Users\podlesnyims\source\repos\Tanks\src\Block.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Block.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Block.cpp.obj -c C:\Users\vorontcovka\Tanks\src\Block.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Block.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayLibTemplate.dir/src/Block.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\podlesnyims\source\repos\Tanks\src\Block.cpp > CMakeFiles\RayLibTemplate.dir\src\Block.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\vorontcovka\Tanks\src\Block.cpp > CMakeFiles\RayLibTemplate.dir\src\Block.cpp.i
 
 CMakeFiles/RayLibTemplate.dir/src/Block.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayLibTemplate.dir/src/Block.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\podlesnyims\source\repos\Tanks\src\Block.cpp -o CMakeFiles\RayLibTemplate.dir\src\Block.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\vorontcovka\Tanks\src\Block.cpp -o CMakeFiles\RayLibTemplate.dir\src\Block.cpp.s
 
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj: ../src/Func.cpp
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj: CMakeFiles/RayLibTemplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Func.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Func.cpp.obj -c C:\Users\podlesnyims\source\repos\Tanks\src\Func.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Func.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Func.cpp.obj -c C:\Users\vorontcovka\Tanks\src\Func.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayLibTemplate.dir/src/Func.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\podlesnyims\source\repos\Tanks\src\Func.cpp > CMakeFiles\RayLibTemplate.dir\src\Func.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\vorontcovka\Tanks\src\Func.cpp > CMakeFiles\RayLibTemplate.dir\src\Func.cpp.i
 
 CMakeFiles/RayLibTemplate.dir/src/Func.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayLibTemplate.dir/src/Func.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\podlesnyims\source\repos\Tanks\src\Func.cpp -o CMakeFiles\RayLibTemplate.dir\src\Func.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\vorontcovka\Tanks\src\Func.cpp -o CMakeFiles\RayLibTemplate.dir\src\Func.cpp.s
 
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: ../src/Tank.cpp
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: CMakeFiles/RayLibTemplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.obj -c C:\Users\podlesnyims\source\repos\Tanks\src\Tank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.obj -c C:\Users\vorontcovka\Tanks\src\Tank.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\podlesnyims\source\repos\Tanks\src\Tank.cpp > CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\vorontcovka\Tanks\src\Tank.cpp > CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.i
 
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\podlesnyims\source\repos\Tanks\src\Tank.cpp -o CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\vorontcovka\Tanks\src\Tank.cpp -o CMakeFiles\RayLibTemplate.dir\src\Tank.cpp.s
 
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: ../src/main.cpp
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: CMakeFiles/RayLibTemplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\main.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\main.cpp.obj -c C:\Users\podlesnyims\source\repos\Tanks\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj -MF CMakeFiles\RayLibTemplate.dir\src\main.cpp.obj.d -o CMakeFiles\RayLibTemplate.dir\src\main.cpp.obj -c C:\Users\vorontcovka\Tanks\src\main.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayLibTemplate.dir/src/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\podlesnyims\source\repos\Tanks\src\main.cpp > CMakeFiles\RayLibTemplate.dir\src\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\vorontcovka\Tanks\src\main.cpp > CMakeFiles\RayLibTemplate.dir\src\main.cpp.i
 
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayLibTemplate.dir/src/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\podlesnyims\source\repos\Tanks\src\main.cpp -o CMakeFiles\RayLibTemplate.dir\src\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\vorontcovka\Tanks\src\main.cpp -o CMakeFiles\RayLibTemplate.dir\src\main.cpp.s
 
 # Object files for target RayLibTemplate
 RayLibTemplate_OBJECTS = \
@@ -165,7 +165,7 @@ RayLibTemplate.exe: libs/raylib/raylib/external/glfw/src/libglfw3.a
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/linklibs.rsp
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/objects1.rsp
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable RayLibTemplate.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable RayLibTemplate.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RayLibTemplate.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -177,6 +177,6 @@ CMakeFiles/RayLibTemplate.dir/clean:
 .PHONY : CMakeFiles/RayLibTemplate.dir/clean
 
 CMakeFiles/RayLibTemplate.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\podlesnyims\source\repos\Tanks C:\Users\podlesnyims\source\repos\Tanks C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug C:\Users\podlesnyims\source\repos\Tanks\cmake-build-debug\CMakeFiles\RayLibTemplate.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\vorontcovka\Tanks C:\Users\vorontcovka\Tanks C:\Users\vorontcovka\Tanks\cmake-build-debug C:\Users\vorontcovka\Tanks\cmake-build-debug C:\Users\vorontcovka\Tanks\cmake-build-debug\CMakeFiles\RayLibTemplate.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/RayLibTemplate.dir/depend
 

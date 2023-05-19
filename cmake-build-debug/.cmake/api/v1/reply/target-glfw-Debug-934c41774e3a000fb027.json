@@ -131,15 +131,15 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/external/glfw/include"
+					"path" : "C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/external/glfw/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/external/glfw/src"
+					"path" : "C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/external/glfw/src"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug/libs/raylib/raylib/external/glfw/src"
+					"path" : "C:/Users/vorontcovka/Tanks/cmake-build-debug/libs/raylib/raylib/external/glfw/src"
 				}
 			],
 			"language" : "C",

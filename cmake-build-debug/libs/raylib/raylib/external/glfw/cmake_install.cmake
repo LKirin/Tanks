@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/external/glfw
+# Install script for directory: C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/external/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug/libs/raylib/raylib/external/glfw/src/cmake_install.cmake")
+  include("C:/Users/vorontcovka/Tanks/cmake-build-debug/libs/raylib/raylib/external/glfw/src/cmake_install.cmake")
 endif()
 

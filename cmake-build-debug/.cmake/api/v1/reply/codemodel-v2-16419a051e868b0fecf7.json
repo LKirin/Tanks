@@ -144,21 +144,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RayLibTemplate::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RayLibTemplate-Debug-c15b8914e410fbd49ed5.json",
+					"jsonFile" : "target-RayLibTemplate-Debug-c5c7e4d2b953e313644e.json",
 					"name" : "RayLibTemplate",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "glfw::@748cfb7de3ab8e0bc04d",
-					"jsonFile" : "target-glfw-Debug-024f427b2b9d1260f1bb.json",
+					"jsonFile" : "target-glfw-Debug-934c41774e3a000fb027.json",
 					"name" : "glfw",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "raylib::@c433a9b36bd4eeacb31c",
-					"jsonFile" : "target-raylib-Debug-d8dcc29dacd8df77e9d2.json",
+					"jsonFile" : "target-raylib-Debug-9de0d815a3caa593cda4.json",
 					"name" : "raylib",
 					"projectIndex" : 1
 				}
@@ -168,8 +168,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/podlesnyims/source/repos/Tanks/cmake-build-debug",
-		"source" : "C:/Users/podlesnyims/source/repos/Tanks"
+		"build" : "C:/Users/vorontcovka/Tanks/cmake-build-debug",
+		"source" : "C:/Users/vorontcovka/Tanks"
 	},
 	"version" : 
 	{

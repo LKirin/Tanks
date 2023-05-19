@@ -1,6 +1,6 @@
 libs/raylib/raylib/CMakeFiles/raylib.dir/rcore.c.obj: \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rcore.c \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\raylib.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rcore.c \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -10,10 +10,10 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rcore.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdbool.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\config.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\utils.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rlgl.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/glad.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\config.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\utils.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rlgl.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/glad.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
@@ -37,16 +37,16 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rcore.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/string.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\raymath.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rgestures.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rcamera.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/msf_gif.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\raymath.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rgestures.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rcamera.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/msf_gif.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/emmintrin.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/xmmintrin.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mmintrin.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/sinfl.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/sinfl.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/assert.h \
- C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/sdefl.h \
+ C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/sdefl.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/time.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
@@ -58,5 +58,5 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rcore.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/dirent.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/direct.h \
- C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/external/glfw/include/GLFW/glfw3.h \
- C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/external/glfw/include/GLFW/glfw3native.h
+ C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/external/glfw/include/GLFW/glfw3.h \
+ C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/external/glfw/include/GLFW/glfw3native.h

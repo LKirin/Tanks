@@ -1,7 +1,7 @@
 CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: \
- C:\Users\podlesnyims\source\repos\Tanks\src\Tank.cpp \
- C:\Users\podlesnyims\source\repos\Tanks\src\Tank.h \
- C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/raylib.h \
+ C:\Users\vorontcovka\Tanks\src\Tank.cpp \
+ C:\Users\vorontcovka\Tanks\src\Tank.h \
+ C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -10,7 +10,7 @@ CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- C:\Users\podlesnyims\source\repos\Tanks\src\Ammos.h \
+ C:\Users\vorontcovka\Tanks\src\Ammos.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algobase.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -50,4 +50,4 @@ CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hash_bytes.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/range_access.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
- C:\Users\podlesnyims\source\repos\Tanks\src\Variable.h
+ C:\Users\vorontcovka\Tanks\src\Variable.h
