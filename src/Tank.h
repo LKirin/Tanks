@@ -7,10 +7,11 @@
 struct Tank {
     Texture2D texture;
     Vector2 position;
-    int gasoline = level_gasoline;
+    int fuel = level_fuel;
     std::vector<Ammo> armemnt;
     void draw();
     void mention();
+    void quantity_fuel();
 };
 #endif //RAYLIBTEMPLATE_TANK_H
 

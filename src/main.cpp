@@ -19,16 +19,18 @@ int main() {
     vector<vector<Block>> blocks;
     Tank tank;
     tank.texture = tex_tank;
-    tank.position = {50, };
+    tank.position = {50, screenHeight / 2 - TANK_HEIGHT + 20};
     fillingBlocks(blocks, BLOCK_LAYER_IN_HEIGHT, BLOCK_LAYER_IN_WIDTH, grass, ground);
     SetTargetFPS(FPS);               
     while (!WindowShouldClose())
     {
         BeginDrawing();
         ClearBackground(SKYBLUE);
+        drawAllblocks(blocks, BLOCK_LAYER_IN_WIDTH);
+
         tank.mention();
         tank.draw();
-        drawAllblocks(blocks, BLOCK_LAYER_IN_WIDTH);
+        tank.quantity_fuel();
 
         EndDrawing();
     }

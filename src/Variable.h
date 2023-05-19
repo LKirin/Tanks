@@ -12,5 +12,5 @@ const int screenWidth = 1920;
 const int screenHeight = 1080;
 const int TANK_WIDTH = 180;
 const int TANK_HEIGHT = 100;
-const float level_gasoline = 150.f;
+const float level_fuel = 200.f;
 #endif //RAYLIBTEMPLATE_VARIABLE_H
