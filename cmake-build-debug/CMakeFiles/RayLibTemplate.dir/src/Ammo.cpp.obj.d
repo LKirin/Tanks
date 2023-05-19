@@ -1,7 +1,7 @@
 CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.obj: \
- C:\Users\vorontcovka\Tanks\src\Ammo.cpp \
- C:\Users\vorontcovka\Tanks\src\Ammo.h \
- C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/raylib.h \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Ammo.cpp \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Ammo.h \
+ C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \

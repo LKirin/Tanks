@@ -1,9 +1,9 @@
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: \
- C:\Users\vorontcovka\Tanks\src\main.cpp \
- C:\Users\vorontcovka\Tanks\src\Func.h \
- C:\Users\vorontcovka\Tanks\src\Block.h \
- C:\Users\vorontcovka\Tanks\src\Variable.h \
- C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/raylib.h \
+ C:\Users\podlesnyims\source\repos\Tanks\src\main.cpp \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Func.h \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Block.h \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Variable.h \
+ C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -147,7 +147,7 @@ CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
- C:/Users/vorontcovka/Tanks/libs/raylib-4.1/src/extras/raygui.h \
+ C:/Users/podlesnyims/source/repos/Tanks/libs/raylib-4.1/src/extras/raygui.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/string.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/math.h \
@@ -167,5 +167,6 @@ CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_hermite.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_laguerre.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/riemann_zeta.tcc \
- C:\Users\vorontcovka\Tanks\src\Tank.h \
- C:\Users\vorontcovka\Tanks\src\Ammo.h
+ C:\Users\podlesnyims\source\repos\Tanks\src\Tank.h \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Ammo.h \
+ C:\Users\podlesnyims\source\repos\Tanks\src\Muzzle.h

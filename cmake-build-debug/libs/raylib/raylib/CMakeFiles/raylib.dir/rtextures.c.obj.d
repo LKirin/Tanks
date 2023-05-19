@@ -1,6 +1,6 @@
 libs/raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.obj: \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rtextures.c \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\raylib.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rtextures.c \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -10,9 +10,9 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdbool.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\config.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\utils.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rlgl.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\config.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\utils.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rlgl.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
@@ -32,7 +32,7 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/stb_image.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/stb_image.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/assert.h \
@@ -41,6 +41,6 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/emmintrin.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/xmmintrin.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mmintrin.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/qoi.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/stb_image_write.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/stb_image_resize.h
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/qoi.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/stb_image_write.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/stb_image_resize.h

@@ -11,12 +11,15 @@ int main() {
 
 
     InitWindow(screenWidth, screenHeight, "raylib [core] example");
-    Texture2D tex_tank = LoadTexture("player 2.png");
+    Texture2D tex_tank = LoadTexture("TankGray.png");
     Texture2D grass = LoadTexture("grass.png");
     Texture2D ground = LoadTexture("ground.png");
+    Texture2D muzzle = LoadTexture("muzzle.png");
     int BLOCK_LAYER_IN_HEIGHT = screenHeight / 2 / BLOCK_HEIGHT;
     int BLOCK_LAYER_IN_WIDTH = screenWidth/ BLOCK_WIDTH;
     vector<vector<Block>> blocks;
+
+
 
     Ammo ammo;
     ammo.position = {100, 100};
@@ -25,8 +28,12 @@ int main() {
 
     Tank tank;
     tank.texture = tex_tank;
-    tank.position = {50, screenHeight / 2 - TANK_HEIGHT + 20};
+    tank.position = {50, (float)screenHeight / 2 - TANK_HEIGHT + 20};
     fillingBlocks(blocks, BLOCK_LAYER_IN_HEIGHT, BLOCK_LAYER_IN_WIDTH, grass, ground);
+    tank.muzzle.texture = muzzle;
+    tank.muzzle.position = {100, 100};
+
+
     SetTargetFPS(FPS);               
     while (!WindowShouldClose())
     {
@@ -36,8 +43,7 @@ int main() {
         ammo.draw();
         tank.mention();
         tank.draw();
-        tank.quantity_fuel();
-
+        tank.drawProgressBarFuels();
         EndDrawing();
     }
     CloseWindow();     

@@ -1,6 +1,6 @@
 libs/raylib/raylib/CMakeFiles/raylib.dir/rtext.c.obj: \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rtext.c \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\raylib.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rtext.c \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\raylib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdarg.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -10,9 +10,9 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rtext.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdbool.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\config.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\utils.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\rlgl.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\config.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\utils.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\rlgl.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
@@ -32,7 +32,7 @@ libs/raylib/raylib/CMakeFiles/raylib.dir/rtext.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/string.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/stb_rect_pack.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/stb_rect_pack.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/assert.h \
- C:\Users\vorontcovka\Tanks\libs\raylib-4.1\src\external/stb_truetype.h \
+ C:\Users\podlesnyims\source\repos\Tanks\libs\raylib-4.1\src\external/stb_truetype.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/math.h
