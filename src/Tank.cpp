@@ -18,14 +18,14 @@ void Tank::mention() {
     }
 
     if(IsKeyDown(KEY_W)) {
-        if (muzzle.angle < -72){
-            muzzle.angle += 1;
+        if (muzzle.angle > -72){
+            muzzle.angle -= 1;
 
         }
     }
     if(IsKeyDown(KEY_S) ) {
         if (muzzle.angle < 72){
-            muzzle.angle -= 1;
+            muzzle.angle += 1;
 
         }
     }
