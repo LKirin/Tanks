@@ -16,6 +16,7 @@ struct Tank {
     void mention();
     void drawProgressBarFuels();
     void shoot();
+    void fall_down(vector<vector<Block>> blocks);
 };
 #endif //RAYLIBTEMPLATE_TANK_H
 

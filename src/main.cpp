@@ -19,34 +19,26 @@ int main() {
     int BLOCK_LAYER_IN_WIDTH = screenWidth/ BLOCK_WIDTH;
     vector<vector<Block>> blocks;
 
-
-
-    Ammo ammo;
-    ammo.position = {100, 100};
-    ammo.position = {540, 560};
-    ammo.texture = tex_ammo;
-    ammo.rotation = 30.f;
-
     Tank tank;
     tank.texture = tex_tank;
     tank.position = {50, (float)screenHeight / 2 - TANK_HEIGHT + 20};
     fillingBlocks(blocks, BLOCK_LAYER_IN_HEIGHT, BLOCK_LAYER_IN_WIDTH, tex_grass, tex_ground);
     tank.muzzle.texture = tex_muzzle;
     tank.muzzle.position = {100, 100};
-
-
+    for (int i = 1; i < 4; ++i) {
+        blocks[BLOCK_LAYER_IN_HEIGHT-i].erase(blocks[BLOCK_LAYER_IN_HEIGHT-i].begin(), blocks[BLOCK_LAYER_IN_HEIGHT-i].begin()+20);
+    }
     SetTargetFPS(FPS);               
     while (!WindowShouldClose())
     {
         BeginDrawing();
         ClearBackground(SKYBLUE);
-        ammo.draw();
         drawAllblocks(blocks, BLOCK_LAYER_IN_WIDTH);
-        ammo.crash(blocks);
 
         tank.mention();
         tank.draw();
         tank.drawProgressBarFuels();
+        tank.fall_down(blocks);
         EndDrawing();
     }
     CloseWindow();     

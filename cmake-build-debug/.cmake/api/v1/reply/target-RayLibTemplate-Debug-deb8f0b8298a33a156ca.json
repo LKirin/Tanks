@@ -99,8 +99,7 @@
 				4,
 				6,
 				8,
-				10,
-				13
+				11
 			]
 		}
 	],
@@ -108,11 +107,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@748cfb7de3ab8e0bc04d"
+			"id" : "raylib::@c433a9b36bd4eeacb31c"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "raylib::@c433a9b36bd4eeacb31c"
+			"id" : "glfw::@748cfb7de3ab8e0bc04d"
 		}
 	],
 	"id" : "RayLibTemplate::@6890427a1f51a3e7e1df",
@@ -178,8 +177,7 @@
 				4,
 				6,
 				8,
-				10,
-				13
+				11
 			]
 		},
 		{
@@ -191,8 +189,7 @@
 				5,
 				7,
 				9,
-				11,
-				12
+				10
 			]
 		}
 	],
@@ -218,17 +215,6 @@
 		{
 			"backtrace" : 1,
 			"path" : "src/Block.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/DrawAllAmmo.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "src/DrawAllAmmo.h",
 			"sourceGroupIndex" : 1
 		},
 		{

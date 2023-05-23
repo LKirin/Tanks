@@ -267,30 +267,6 @@ src/Block.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Block.cpp.s
 .PHONY : src/Block.cpp.s
 
-src/DrawAllAmmo.obj: src/DrawAllAmmo.cpp.obj
-.PHONY : src/DrawAllAmmo.obj
-
-# target to build an object file
-src/DrawAllAmmo.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.obj
-.PHONY : src/DrawAllAmmo.cpp.obj
-
-src/DrawAllAmmo.i: src/DrawAllAmmo.cpp.i
-.PHONY : src/DrawAllAmmo.i
-
-# target to preprocess a source file
-src/DrawAllAmmo.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.i
-.PHONY : src/DrawAllAmmo.cpp.i
-
-src/DrawAllAmmo.s: src/DrawAllAmmo.cpp.s
-.PHONY : src/DrawAllAmmo.s
-
-# target to generate assembly for a file
-src/DrawAllAmmo.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.s
-.PHONY : src/DrawAllAmmo.cpp.s
-
 src/Func.obj: src/Func.cpp.obj
 .PHONY : src/Func.obj
 
@@ -410,9 +386,6 @@ help:
 	@echo ... src/Block.obj
 	@echo ... src/Block.i
 	@echo ... src/Block.s
-	@echo ... src/DrawAllAmmo.obj
-	@echo ... src/DrawAllAmmo.i
-	@echo ... src/DrawAllAmmo.s
 	@echo ... src/Func.obj
 	@echo ... src/Func.i
 	@echo ... src/Func.s

@@ -3,8 +3,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.obj.d"
   "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj"
   "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj.d"
-  "CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.obj"
-  "CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.obj.d"
   "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj"
   "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj.d"
   "CMakeFiles/RayLibTemplate.dir/src/Muzzle.cpp.obj"

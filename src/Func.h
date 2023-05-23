@@ -11,4 +11,6 @@
 using namespace std;
 void fillingBlocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_HEIGHT, int BLOCK_LAYER_IN_WIDTH, Texture2D grass, Texture2D ground);
 void drawAllblocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_WIDTH);
+int big_max(vector<int> arr);
+int big_min(vector<int> arr);
 #endif //RAYLIBTEMPLATE_FUNC_H

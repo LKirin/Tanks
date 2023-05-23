@@ -20,7 +20,20 @@ void fillingBlocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_HEIGHT, int
         blocks.push_back(vec_blocks);
     }
 }
-
+int big_max(vector<int> arr){
+    int max = -100;
+    for (int i = 0; i < arr.size(); ++i) {
+        if (max < arr[i]) max = arr[i];
+    }
+    return max;
+}
+int big_min(vector<int> arr){
+    int min = 10000;
+    for (int i = 0; i < arr.size(); ++i) {
+        if(min > arr[i]) min = arr[i];
+    }
+    return min;
+}
 
 void drawAllblocks(vector<vector<Block>> &blocks, int BLOCK_LAYER_IN_WIDTH) {
     for (int i = 0; i < blocks.size(); i++) {
