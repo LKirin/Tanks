@@ -1,2 +1,6 @@
 ﻿out
 .vs
+cmake-build-debug/CMakeFiles
+cmake-build-debug/Testing
+cmake-build-debug/RayLibTemplate.exe
+cmake-build-debug/libs

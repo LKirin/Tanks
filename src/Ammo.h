@@ -10,7 +10,9 @@ struct Ammo{
     Texture2D texture;
     float weight;
     Vector2 position;
-    float rotation;
+    int rotation;
+    Vector2 rad_rotation; ///угол поворота в радианах
+
     //void preview();
     void draw();
     void crash(vector<vector<Block>> blocks);

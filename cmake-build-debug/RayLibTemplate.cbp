@@ -430,10 +430,22 @@
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Block.h">
 			<Option target="RayLibTemplate"/>
 		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/DrawAllAmmo.cpp">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/DrawAllAmmo.h">
+			<Option target="RayLibTemplate"/>
+		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Func.cpp">
 			<Option target="RayLibTemplate"/>
 		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Func.h">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Muzzle.cpp">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/vorontcovka/Tanks/src/Muzzle.h">
 			<Option target="RayLibTemplate"/>
 		</Unit>
 		<Unit filename="C:/Users/vorontcovka/Tanks/src/Tank.cpp">

@@ -267,6 +267,30 @@ src/Block.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Block.cpp.s
 .PHONY : src/Block.cpp.s
 
+src/DrawAllAmmo.obj: src/DrawAllAmmo.cpp.obj
+.PHONY : src/DrawAllAmmo.obj
+
+# target to build an object file
+src/DrawAllAmmo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.obj
+.PHONY : src/DrawAllAmmo.cpp.obj
+
+src/DrawAllAmmo.i: src/DrawAllAmmo.cpp.i
+.PHONY : src/DrawAllAmmo.i
+
+# target to preprocess a source file
+src/DrawAllAmmo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.i
+.PHONY : src/DrawAllAmmo.cpp.i
+
+src/DrawAllAmmo.s: src/DrawAllAmmo.cpp.s
+.PHONY : src/DrawAllAmmo.s
+
+# target to generate assembly for a file
+src/DrawAllAmmo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.s
+.PHONY : src/DrawAllAmmo.cpp.s
+
 src/Func.obj: src/Func.cpp.obj
 .PHONY : src/Func.obj
 
@@ -290,6 +314,30 @@ src/Func.s: src/Func.cpp.s
 src/Func.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Func.cpp.s
 .PHONY : src/Func.cpp.s
+
+src/Muzzle.obj: src/Muzzle.cpp.obj
+.PHONY : src/Muzzle.obj
+
+# target to build an object file
+src/Muzzle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Muzzle.cpp.obj
+.PHONY : src/Muzzle.cpp.obj
+
+src/Muzzle.i: src/Muzzle.cpp.i
+.PHONY : src/Muzzle.i
+
+# target to preprocess a source file
+src/Muzzle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Muzzle.cpp.i
+.PHONY : src/Muzzle.cpp.i
+
+src/Muzzle.s: src/Muzzle.cpp.s
+.PHONY : src/Muzzle.s
+
+# target to generate assembly for a file
+src/Muzzle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Muzzle.cpp.s
+.PHONY : src/Muzzle.cpp.s
 
 src/Tank.obj: src/Tank.cpp.obj
 .PHONY : src/Tank.obj
@@ -362,9 +410,15 @@ help:
 	@echo ... src/Block.obj
 	@echo ... src/Block.i
 	@echo ... src/Block.s
+	@echo ... src/DrawAllAmmo.obj
+	@echo ... src/DrawAllAmmo.i
+	@echo ... src/DrawAllAmmo.s
 	@echo ... src/Func.obj
 	@echo ... src/Func.i
 	@echo ... src/Func.s
+	@echo ... src/Muzzle.obj
+	@echo ... src/Muzzle.i
+	@echo ... src/Muzzle.s
 	@echo ... src/Tank.obj
 	@echo ... src/Tank.i
 	@echo ... src/Tank.s

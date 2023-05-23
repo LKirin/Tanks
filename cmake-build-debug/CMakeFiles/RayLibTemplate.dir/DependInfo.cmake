@@ -10,7 +10,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/vorontcovka/Tanks/src/Ammo.cpp" "CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Ammo.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/Block.cpp" "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Block.cpp.obj.d"
+  "C:/Users/vorontcovka/Tanks/src/DrawAllAmmo.cpp" "CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/DrawAllAmmo.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/Func.cpp" "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Func.cpp.obj.d"
+  "C:/Users/vorontcovka/Tanks/src/Muzzle.cpp" "CMakeFiles/RayLibTemplate.dir/src/Muzzle.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Muzzle.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/Tank.cpp" "CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/Tank.cpp.obj.d"
   "C:/Users/vorontcovka/Tanks/src/main.cpp" "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj" "gcc" "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj.d"
   )

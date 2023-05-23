@@ -11,23 +11,30 @@ int main() {
 
     InitWindow(screenWidth, screenHeight, "raylib [core] example");
     Texture2D tex_tank = LoadTexture("TankGray.png");
-    Texture2D grass = LoadTexture("grass.png");
-    Texture2D ground = LoadTexture("ground.png");
+    Texture2D tex_grass = LoadTexture("grass.png");
+    Texture2D tex_ground = LoadTexture("ground.png");
+    Texture2D tex_muzzle = LoadTexture("muzzle.png");
     Texture2D tex_ammo = LoadTexture("ammo.png");
-
     int BLOCK_LAYER_IN_HEIGHT = screenHeight / 2 / BLOCK_HEIGHT;
     int BLOCK_LAYER_IN_WIDTH = screenWidth/ BLOCK_WIDTH;
     vector<vector<Block>> blocks;
 
+
+
     Ammo ammo;
+    ammo.position = {100, 100};
     ammo.position = {540, 560};
     ammo.texture = tex_ammo;
     ammo.rotation = 30.f;
 
     Tank tank;
     tank.texture = tex_tank;
-    tank.position = {50, screenHeight / 2 - TANK_HEIGHT + 20};
-    fillingBlocks(blocks, BLOCK_LAYER_IN_HEIGHT, BLOCK_LAYER_IN_WIDTH, grass, ground);
+    tank.position = {50, (float)screenHeight / 2 - TANK_HEIGHT + 20};
+    fillingBlocks(blocks, BLOCK_LAYER_IN_HEIGHT, BLOCK_LAYER_IN_WIDTH, tex_grass, tex_ground);
+    tank.muzzle.texture = tex_muzzle;
+    tank.muzzle.position = {100, 100};
+
+
     SetTargetFPS(FPS);               
     while (!WindowShouldClose())
     {
@@ -39,8 +46,7 @@ int main() {
 
         tank.mention();
         tank.draw();
-        tank.quantity_fuel();
-
+        tank.drawProgressBarFuels();
         EndDrawing();
     }
     CloseWindow();     
