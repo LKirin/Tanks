@@ -18,14 +18,16 @@ void Tank::mention() {
     }
 
     if(IsKeyDown(KEY_W)) {
-        if ( muzzle.angle >= 270 ) muzzle.angle += 1;
-        else{
-            muzzle.angle -= 1;
+        if (muzzle.angle < -72){
+            muzzle.angle += 1;
+
         }
     }
     if(IsKeyDown(KEY_S) ) {
-        if (muzzle.angle <= 100) muzzle.angle -= 1;
-        else muzzle.angle += 1;
+        if (muzzle.angle < 72){
+            muzzle.angle -= 1;
+
+        }
     }
     std::cout << muzzle.angle << std::endl;
 }
