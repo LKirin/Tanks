@@ -36,3 +36,9 @@ void Tank::drawProgressBarFuels(){
     muzzle.position = {position.x + PIXELS_TO_MUZZLE.x, position.y + PIXELS_TO_MUZZLE.y};
     muzzle.draw();
 }
+
+void Tank::shoot() {
+    for (int i = 0; i < valueAmmo; ++i) {
+
+    }
+}

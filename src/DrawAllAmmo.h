@@ -1,0 +1,10 @@
+//
+// Created by podlesnyims on 23.05.2023.
+//
+
+#ifndef RAYLIBTEMPLATE_DRAWALLAMMO_H
+#define RAYLIBTEMPLATE_DRAWALLAMMO_H
+
+
+
+#endif //RAYLIBTEMPLATE_DRAWALLAMMO_H

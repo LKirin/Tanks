@@ -10,11 +10,12 @@ struct Tank {
     Muzzle muzzle;
     Texture2D texture;
     Vector2 position;
-    int fuel = VALUE_FUEL;
-    std::vector<Ammo> armemnt;
+    int fuel = (int)VALUE_FUEL;
+    int valueAmmo;
     void draw();
     void mention();
     void drawProgressBarFuels();
+    void shoot();
 };
 #endif //RAYLIBTEMPLATE_TANK_H
 
